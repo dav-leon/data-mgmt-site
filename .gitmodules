@@ -7,3 +7,6 @@
 [submodule "pablo"]
 	path = pablo
 	url = https://github.com/pabloantunamolina/bimsc21-datamgmt-FINAL-spatialgreenhouse
+[submodule "dami"]
+	path = dami
+	url = https://github.com/DamiAKinniyi/Portraits_Draft
