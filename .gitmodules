@@ -1,3 +1,6 @@
 [submodule "alex"]
 	path = alex
 	url = https://github.com/Krilin39/Data-Management-final-submission
+[submodule "jumana"]
+	path = jumana
+	url = https://github.com/JumanaHamdani/pavilion
